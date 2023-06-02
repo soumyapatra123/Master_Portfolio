@@ -297,10 +297,19 @@ html[light-mode="dark"] {
     transition: background-color .3s;
     box-shadow: 0 0 0;
 }
-
 .dark-theme .navbar-nav .nav-link,
 .dark-theme .navbar-brand {
     color: rgba(255, 255, 255, 0.5);
+}
+
+.nav-link{
+    color: #1f1d1d !important;
+}
+
+.nav-link:hover{
+    color:#000 !important;
+    font-weight: bolder;
+    
 }
 
 .dark-theme .nav-link:hover{
