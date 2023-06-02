@@ -235,7 +235,7 @@ html {
 }
 
 .navbar {
-    color:#0000ff;
+    color: #000000;
     background-color: #fff;
     z-index: 2;
     box-shadow: 0 2px 2px rgb(230, 230, 230);
@@ -444,7 +444,7 @@ color: #ffffff !important;
     align-items: center;
     cursor: pointer;
     transition: all .2s ease-in-out;
-    border-color: white;
+    border-color: blueviolet;
     border: none;
     outline: none;
     padding: 0;
