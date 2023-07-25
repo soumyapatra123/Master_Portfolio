@@ -6,14 +6,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "ClaimBook",
-    cardImage: "assets/images/project-page/claimbook.png",
+    title: "Contract Life Cycle Management System",
+    cardImage: "assets/images/project-page/clm.png",
     description:
-      "A full stack web application for finding and sharing activities",
+      "A full stack web application for AI Based Contract Life Cycle Management System",
     tagimg: "",
     Previewlink:
-      "https://github.com/OssamaLouati/Claimbook-Project",
-    Githublink: "https://github.com/OssamaLouati/Claimbook-Project",
+      "https://github.com/patrasoumyaranjan1999/project-template",
+    Githublink: "https://github.com/patrasoumyaranjan1999/project-template",
   },
   {
     title: "CIT Web cell website",
