@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Contract Life Cycle Management System",
-    cardImage: "assets/images/project-page/clm.png",
+    cardImage: "assets/images/project-page/contract.jpeg",
     description:
       "A full stack web application for AI Based Contract Life Cycle Management System",
     tagimg: "",
@@ -16,17 +16,17 @@ const projects = [
     Githublink: "https://github.com/patrasoumyaranjan1999/project-template",
   },
   {
-    title: "CIT Web cell website",
-    cardImage: "assets/images/experience-page/cit.png",
+    title: "Dragon Real Estate House Price Prediction Using Machine Learning",
+    cardImage: "assets/images/experience-page/house.jpeg",
     description:
-      "a sophisticated website that presents INPT's CIT club activities and its cells and highlight upcoming events in the club",
+      "Real estate House Price Prediction using the technique of Machine Learning ",
     tagimg: "",
     Previewlink:
-      "https://citweb.live",
-    Githublink: "https://citweb.live",
+      "https://github.com/patrasoumyaranjan1999/dragon-house-price-prediction-using-ML",
+    Githublink: "https://github.com/patrasoumyaranjan1999/dragon-house-price-prediction-using-ML",
   },
   {
-    title: "EventScroller",
+    title: "Air Impurity Dataset Analysis using Machine Learning",
     cardImage: "assets/images/project-page/eventscroller.png",
     description:
     "A full stack web application for finding and sharing activities",
