@@ -27,23 +27,23 @@ const projects = [
   },
   {
     title: "Air Impurity Dataset Analysis using Machine Learning",
-    cardImage: "assets/images/project-page/eventscroller.png",
+    cardImage: "assets/images/project-page/air.png",
     description:
-    "A full stack web application for finding and sharing activities",
+    "Air Impurity Dataset Analysis using Machine Learning",
     tagimg: "",
     Previewlink:
-      "https://github.com/OssamaLouati/EventScroller-PFA",
-    Githublink: "https://github.com/OssamaLouati/EventScroller-PFA",
+      "https://github.com/patrasoumyaranjan1999/air-impurity-data-set-analysis-using-machine-learning",
+    Githublink: "https://github.com/patrasoumyaranjan1999/air-impurity-data-set-analysis-using-machine-learning",
   },
   {
-    title: "INPT Clubs Service",
-    cardImage: "assets/images/project-page/PINE.PNG",
+    title: "Amazon Best Book Selling Report and DAshboard By PowerBi",
+    cardImage: "assets/images/project-page/amazon.jpeg",
     description:
-      "A web solution for Clubs registration for INPT engineering students",
+      "Amazon Best Book Selling Report and DAshboard By PowerBi",
     tagimg: "",
     Previewlink:
-      "https://github.com/OssamaLouati/Clubs-Registration-at-INPT",
-    Githublink: "https://github.com/OssamaLouati/Clubs-Registration-at-INPT",
+      "https://github.com/patrasoumyaranjan1999/Amazon-best-selling-book-Report",
+    Githublink: "https://github.com/patrasoumyaranjan1999/Amazon-best-selling-book-Report",
   },
 ];
 
