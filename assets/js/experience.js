@@ -28,15 +28,15 @@ const exp = [
     
     <ul>
     <li><b>Duck Creek</b> technologies In P&C Insurance</li>
-    <li><b>Data Analytics</b>Data Analytics With PowerBI</li>
-    <li><b>Artificial Intelligence</b>Build AI Powered Dashboard/Report</li>
+    <li><b>Data Analytics</b> Data Analytics With PowerBI</li>
+    <li><b>Artificial Intelligence</b> Build AI Powered Dashboard/Report</li>
     </ul>
     `,
   },
   {
     title: "Software Developer Intern",
     cardImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQMGK913uOy9qPlIKAxQMsfGcedXCxPe4Jgn4Z6zun7aDICFIIU5iw4jt2CQcAg7GXmE&usqp=CAU",
-    place: "CodeKart",
+    place: "CodeKart Solutions Pvt. Ltd.",
     time: "(October, 2021 - May, 2022)",
     desp: `
     As part of the <b>Product development</b> team, my missions were as follows:
