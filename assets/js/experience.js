@@ -5,7 +5,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Developer Engineer",
+    title: "Software Developer",
     cardImage: "https://media.licdn.com/dms/image/C560BAQGSpT-nV4wbeQ/company-logo_200_200/0/1649936297524?e=2147483647&v=beta&t=WC_kEAZzXfYxiuvKNWGL62ALP6yV-A-7l6i4w0ujt7M",
     place: "Eagle Technology Resources Pvt Ltd",
     time: "(February, 2023 - Present)",
@@ -19,7 +19,7 @@ const exp = [
     `,
   },
   {
-    title: "Software Engineer Intern",
+    title: "Software Developer",
     cardImage: "https://media.licdn.com/dms/image/C510BAQHgbiy1z_i2Tg/company-logo_200_200/0/1554267679053?e=2147483647&v=beta&t=7G4DzKwrvHaAV5wEkLzydVnqwQXuy62a2nJSk2mGa50",
     place: "Tetrasoft Inc.",
     time: "(June, 2022 - October, 2022)",
@@ -28,6 +28,8 @@ const exp = [
     
     <ul>
     <li><b>Duck Creek</b> technologies In P&C Insurance</li>
+    <li><b>Data Analytics</b>Data Analytics With PowerBI</li>
+    <li><b>Artificial Intelligence</b>Build AI Powered Dashboard/Report</li>
     </ul>
     `,
   },
